@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cuerpo del candado -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,48 L70,48 Q74,48 74,52 L74,72 Q74,76 70,76 L38,76 Q34,76 34,72 L34,52 Q34,48 38,48 Z" />
+    <!-- Arco del candado -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M42,48 L42,40 A12,12 0 0 1 66,40 L66,48"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5" />
+</vector>
